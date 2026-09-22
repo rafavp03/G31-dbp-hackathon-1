@@ -1,0 +1,8 @@
+{
+  "equipo": "G31",
+  "integrantes": [
+    { "nombre": "Rafael Vargas",   "codigo": "202510126" },
+    { "nombre": "Gabriel Murillo", "codigo": "202510160" },
+    { "nombre": "Indira Yabar",     "codigo": "202520029" }
+  ]
+}
